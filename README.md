@@ -2,7 +2,7 @@
 
 A conversational AI agent built with Google's Agent Development Kit (ADK) that helps home cooks discover custom recipes based on available pantry ingredients, manage household pantry inventory, calculate nutritional macros, generate dish photography and cooking videos, and render rich interactive UI components.
 
-![Smart Recipe Assistant Demo](demo.gif)
+![Smart Recipe Assistant ADK Playground Demo](demo_screenshot.png)
 
 ---
 
@@ -101,6 +101,6 @@ A conversational AI agent built with Google's Agent Development Kit (ADK) that h
 │       └── index.html        # Rebranded chat UI with example prompt pills
 ├── agents-cli-manifest.yaml  # Deployment manifest
 ├── deployment_metadata.json  # Reasoning Engine runtime metadata
-├── demo.gif                  # Animated demo recording
+├── demo_screenshot.png        # ADK Playground demo screenshot
 └── README.md
 ```
